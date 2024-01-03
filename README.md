@@ -4,7 +4,7 @@
 
 ### [D、第一、二次模擬考自我比較圖R語言輸出結果](https://tjjh.github.io/112MT/R112.TEST.pair.a01.a02.html)
 ### [C、第二次模擬考進退步R語言輸出結果](https://tjjh.github.io/112MT/R112a01.a02.for.loop.html) `(圖多慎入!!!)`
-### [B、第二次模擬考R語言輸出結果](https://tjjh.github.io/112MT/R112a02-ggplotly.RMD.html)
+### [B、第二次模擬考R語言輸出結果](https://tjjh.github.io/112MT/R112a02-ggplotly.html)
 ### [A、第一次模擬考R語言輸出結果](https://tjjh.github.io/112MT/R112a01-ggplotly.RMD.html)
 
 ### 箱形圖說明
